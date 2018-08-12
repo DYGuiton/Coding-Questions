@@ -12,9 +12,11 @@ package interviewtests;
 public class InterviewQuestions {
 
     public static void main(String[] args) {
-    new LiscenseKeyFormatting();
+    //new LiscenseKeyFormatting();
     
-    new ATOI();
+    //new ATOI();
+    
+    new ValidParentheses();
     }
 
 }
