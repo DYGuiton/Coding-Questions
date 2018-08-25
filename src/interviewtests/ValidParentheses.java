@@ -3,6 +3,7 @@ package interviewtests;
 /**
  * @author Yurichi
  */
+//leet code #20
 //Question :Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 //
 //An input string is valid if:
@@ -61,7 +62,8 @@ public class ValidParentheses {
                 return false;
             }
         }
-        return theStack.isEmpty();
+        return true;
+//        return theStack.isEmpty();
     }
 
 }
